@@ -2,6 +2,8 @@
 # @Author: Xiaobo Yang
 x=0
 y=0
+z=0
+print(z)
 def extra_euclid(a, b):
     global x
     global y
